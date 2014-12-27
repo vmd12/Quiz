@@ -24,6 +24,8 @@
 	self.window.rootViewController = self.viewController;
 	[self.window makeKeyAndVisible];
 	
+	int blah = 0;
+	
 	return YES;
 }
 
